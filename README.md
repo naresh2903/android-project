@@ -22,7 +22,7 @@ preferences.
 6. WIFI Turn on/off is simple interaction with the hardware of device we installed our app.
 
 
-This prject is done by four .
+#This project is done by four .
 Narendra Pal
 Darpan Sinsinwar
 Satyajeet 
